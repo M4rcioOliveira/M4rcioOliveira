@@ -1,16 +1,19 @@
-### Hi there 👋
+#  Hey 👋
 
-<!--
-**M4rcioOliveira/M4rcioOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Marcio, Analista Desenvolvedor de Sistemas em formação, com foco profissional no BackEnd .
 
-Here are some ideas to get you started:
+####  "A persistência é o caminho do êxito" ***[Charles Chaplin]***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🌎 Sou de Goiás, Brasil
+ - 🤓💻Desenvolvedor BackEnd
+ 
+## Tecnologias
+ -  ☕ JAVA POO
+ -  SPRING BOT
+ - MY SQL
+
+# Redes Sociais
+
+```markdown
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marcioco/)](https://https://www.linkedin.com/in/marcioco/)
+```

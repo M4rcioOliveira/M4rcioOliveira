@@ -12,7 +12,13 @@ Sou o Marcio, Analista Desenvolvedor de Sistemas em formação, com foco profiss
  - 🌎 Sou de Goiás, Brasil
  - 🤓💻Desenvolvedor BackEnd
  
-## Tecnologias
+## Tecnologias que lido no meu dia a dia
  -  ☕ JAVA 
+ -  JPA
  -  Spring Bot
  - My SQL
+ - SqlServer
+
+##Conhecimentos Adicionais
+-HTML
+-CSS

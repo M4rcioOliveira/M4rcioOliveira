@@ -20,6 +20,7 @@ Sou o Marcio, Analista Desenvolvedor de Sistemas em formação, com foco profiss
  - SqlServer
 
 ## Conhecimentos Adicionais
--HTML
--CSS
 
+ - HTML
+  
+ - CSS

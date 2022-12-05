@@ -5,22 +5,17 @@
 
 #  Hey 👋
 
-Sou o Marcio, Analista Desenvolvedor de Sistemas em formação, com foco profissional no BackEnd .
+Sou o Marcio! Desenvolvedor formado em Análise/Desenvolvimento de Sistemas e pós graduado em engenharia de Software.
 
 ####  "A persistência é o caminho do êxito" ***[Charles Chaplin]***
 
  - 🌎 Sou de Goiás, Brasil
  - 🤓💻Desenvolvedor BackEnd
  
-## Tecnologias que lido no meu dia-a-dia
+## Skilss
  -  ☕ JAVA 
  -  JPA
- -  Spring Bot
- - My SQL
- - SqlServer
-
-## Conhecimentos Adicionais
-
- - HTML
-  
- - CSS
+ -  Spring Boot
+ -  Angular
+ -  My SQL
+ -  PostGree

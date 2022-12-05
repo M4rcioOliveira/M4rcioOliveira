@@ -12,7 +12,7 @@ Sou o Marcio! Desenvolvedor formado em Análise/Desenvolvimento de Sistemas e p�
  - 🌎 Sou de Goiás, Brasil
  - 🤓💻Desenvolvedor BackEnd
  
-## Skilss
+## Skils
  -  ☕ JAVA 
  -  JPA
  -  Spring Boot

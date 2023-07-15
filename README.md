@@ -11,7 +11,7 @@ Desenvolvedor Back-end formado em Análise de Sistemas e com pós-graduação em
  - 🌎 Sou de Goiás, Brasil
  - 🤓💻Desenvolvedor Back-End
  
-## SkilLs
+## Skills
 
 - AWS
 - JAVA

@@ -18,4 +18,4 @@ Desenvolvedor Back-end formado em Análise de Sistemas e com pós-graduação em
 - SPRING FRAMEWORK
 - NODE JS
 - GIT HUB (CI/CD)
-- TERRAFORM
+- TERRAFORM 

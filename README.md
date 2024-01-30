@@ -4,7 +4,7 @@
 
 #  Hey 👋
 
-Desenvolvedor Back-end formado em Análise de Sistemas e com pós-graduação em Engenharia de Software.
+Desenvolvedor Back-end graduadi em Análise de Sistemas e com pós-graduação em Engenharia de Software.
 
 ####  "A persistência é o caminho do êxito" ***[Charles Chaplin]***
 

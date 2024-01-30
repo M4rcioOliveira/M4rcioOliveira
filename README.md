@@ -2,9 +2,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/M4rcioOliveira/)](https://github.com/M4rcioOliveira/)
 
 
-#  Hey 👋
+#  Olá 👋
 
-Desenvolvedor Back-end graduadi em Análise de Sistemas e com pós-graduação em Engenharia de Software.
+Desenvolvedor Back-end graduado em Análise de Sistemas e com pós-graduação em Engenharia de Software.
 
 ####  "A persistência é o caminho do êxito" ***[Charles Chaplin]***
 

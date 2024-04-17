@@ -1,21 +1,48 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcioco/)](https://www.linkedin.com/in/marcioco/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/M4rcioOliveira/)](https://github.com/M4rcioOliveira/)
+# Olá! Eu sou o Marcio 👋
 
+## Sobre mim
 
-#  Olá 👋
+Desenvolvedor Java, com uma sólida formação acadêmica e experiência profissional em projetos desafiadores.
 
-Desenvolvedor Back-end graduado em Análise de Sistemas e com pós-graduação em Engenharia de Software.
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+- 🎓 Pós-graduado em Engenharia de Software.
 
-####  "A persistência é o caminho do êxito" ***[Charles Chaplin]***
+## Experiência Profissional
 
- - 🌎 Sou de Goiás, Brasil
- - 🤓💻Desenvolvedor Back-End
- 
-## Skills
+Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos significativos em algumas das maiores empresas do mercado:
 
-- AWS
-- JAVA
-- SPRING FRAMEWORK
-- NODE JS
-- GIT HUB (CI/CD)
-- TERRAFORM 
+- 🏦 Itaú
+- 🏭 Unilever
+- 🏢 Allianz
+- 📱 Vivo
+
+## Tecnologias e Habilidades
+
+Minhas principais habilidades, tecnologias e ferramentas incluem:
+
+- 💻 Java
+- 💼 Spring Framework
+- 🛠️ Hibernate
+- 📊 SQL
+- 📦 Maven
+- 🖥️ IntelliJ IDEA
+- 📱 -   💾 Redis
+-   🍃 MongoDB
+-   🐘 PostgreSQL
+-   🐬 MySQL
+-   🐳 Docker
+
+## Objetivos
+
+Estou sempre buscando aprender e crescer como desenvolvedor. Meu objetivo é continuar enfrentando desafios interessantes e contribuir para projetos que fazem a diferença.
+
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=M4rcioOliveira&show_icons=true&theme=dark)](https://github.com/M4rcioOliveira)
+
+## Contato
+
+Fique à vontade para entrar em contato comigo! Vamos conversar sobre desenvolvimento de software, tecnologia, oportunidades ou qualquer outro tópico relacionado.
+
+- [LinkedIn](https://www.linkedin.com/in/marcioco)
+

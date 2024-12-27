@@ -9,7 +9,7 @@ Desenvolvedor Java com sólida formação acadêmica e experiência em projetos 
 - 🎓 **Graduação**: Análise e Desenvolvimento de Sistemas.  
 - 🎓 **Pós-graduação**: Engenharia de Software.  
 - 📍 Residente no Brasil, apaixonado por tecnologia e inovação.  
-- 🎮 `Gamer` nas horas vagas e fã de desafios intelectuais.  
+- 🎮 `Gamer` nas horas e `programador`! 
 
 ---
 
@@ -33,8 +33,6 @@ Trabalhei em projetos significativos em algumas das maiores empresas do mercado:
 
 ### Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Ferramentas e Práticas
@@ -46,8 +44,8 @@ Trabalhei em projetos significativos em algumas das maiores empresas do mercado:
 
 ## 🎯 Objetivos
 
-- 🧠 Expandir conhecimentos em **Cloud Computing**, **Arquitetura de Microsserviços** e **Big Data**.  
-- 🌟 Contribuir para projetos de impacto global.  
+- 🧠 Expandir conhecimentos em **Cloud Computing** e **Arquitetura de Microsserviços**.  
+- 🌟 Contribuir para grandesn projetos.  
 - 💡 Desenvolver soluções que combinem inovação e eficiência.
 
 ---
@@ -64,8 +62,6 @@ Trabalhei em projetos significativos em algumas das maiores empresas do mercado:
 Vamos conversar sobre desenvolvimento de software, tecnologia ou qualquer outro tópico interessante:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marcioco)  
-- ✉️ E-mail: **seu.email@exemplo.com**  
-- 🌟 [Portfólio](https://github.com/M4rcioOliveira) *(se aplicável)*  
 
 ---
 

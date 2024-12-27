@@ -12,7 +12,7 @@ Desenvolvedor Java com sólida formação acadêmica e experiência em projetos 
 
 - 🎓 **Graduação**: Análise e Desenvolvimento de Sistemas.  
 - 🎓 **Pós-graduação**: Engenharia de Software.  
-- 📍 Residente no Brasil, apaixonado por tecnologia e inovação.  
+- 📍 Residente no Brasil, Entusiasmo por tecnologia e inovação.  
 - 🎮 `Gamer` nas horas e `programador`! 
 
 ---

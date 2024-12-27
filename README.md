@@ -1,5 +1,9 @@
 # Olá! Seja bem-vindo! 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
+</div>
+
 Desenvolvedor Java com sólida formação acadêmica e experiência em projetos desafiadores, focado em construir soluções robustas e escaláveis.
 
 ---

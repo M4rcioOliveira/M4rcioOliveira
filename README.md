@@ -2,6 +2,8 @@
 
 ## Sobre mim
 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 Desenvolvedor Java, com uma sólida formação acadêmica e experiência profissional em projetos desafiadores.
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas.

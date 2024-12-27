@@ -26,11 +26,11 @@ Minhas principais habilidades, tecnologias e ferramentas incluem:
 - 📊 SQL
 - 📦 Maven
 - 🖥️ IntelliJ IDEA
-- 📱 -   💾 Redis
--   🍃 MongoDB
--   🐘 PostgreSQL
--   🐬 MySQL
--   🐳 Docker
+- 💾 Redis
+- 🍃 MongoDB
+- 🐘 PostgreSQL
+- 🐬 MySQL
+- 🐳 Docker
 
 ## Objetivos
 

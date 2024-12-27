@@ -1,7 +1,5 @@
 # Olá! Seja bem-vindo! 👋
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 Desenvolvedor Java com sólida formação acadêmica e experiência em projetos desafiadores, focado em construir soluções robustas e escaláveis.
 
 ---
@@ -11,7 +9,7 @@ Desenvolvedor Java com sólida formação acadêmica e experiência em projetos 
 - 🎓 **Graduação**: Análise e Desenvolvimento de Sistemas.  
 - 🎓 **Pós-graduação**: Engenharia de Software.  
 - 📍 Residente no Brasil, apaixonado por tecnologia e inovação.  
-- 🎮 Gamer nas horas vagas e fã de desafios intelectuais.  
+- 🎮 `Gamer` nas horas vagas e fã de desafios intelectuais.  
 
 ---
 
